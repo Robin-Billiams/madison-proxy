@@ -1,4 +1,21 @@
 #upper {
   display: grid;
   grid-template-columns: 60% 40%;
+  justify-content: center;
+  align-items: center;
+}
+
+#Options {
+  width: 90%;
+  margin: 0 auto;
+}
+
+#middle {
+  width: 90%;
+  margin: 0 auto;
+}
+
+#Reviews {
+  width: 90%;
+  margin: 0 auto;
 }
